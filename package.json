@@ -1,0 +1,10 @@
+{
+  "name": "bank-transfer-service",
+  "version": "1.0.0",
+  "description": "Backend Task (Bank Transfer App)",
+  "main": "index.js",
+  "repository": "https://github.com/mustapha3341/bank-transfer-service.git",
+  "author": "arewa_coder<mustapha3341@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
