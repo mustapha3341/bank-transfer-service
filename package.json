@@ -6,5 +6,17 @@
   "repository": "https://github.com/mustapha3341/bank-transfer-service.git",
   "author": "arewa_coder<mustapha3341@gmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "scripts": {
+    "start": "node -r esm src/server.js",
+    "dev": "nodemon -r esm src/server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "esm": "^3.2.25",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
